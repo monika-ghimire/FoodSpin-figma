@@ -1,0 +1,85 @@
+.img-holder img{
+    border-radius: 50%;
+    
+}
+.img-holder
+{
+   position: relative;
+   border: 2px dashed #E87F1E;
+   height:500px;
+   width:500px;
+   border-radius: 50%;
+   transform: rotate(0deg);
+   transition:0.3s;
+   margin-top:60%;
+   margin-left: 20%;
+transition: 0.3s;
+}
+
+.img1{
+    position: absolute;
+  top:200px ;
+  left:-50px;
+}
+.img2{
+    position: absolute;
+    top:10%;
+    left:0%;
+ 
+}
+.img3{
+    position: absolute;
+    top:-5%;
+    left:35%;
+}
+.img4{
+    position: absolute;
+    top:10%;
+    left:80%;
+}
+.img5{
+    position: absolute;
+  top:210px ;
+  left:440px;
+}
+/* .img6 img{
+
+    width:110px;
+} */
+.img6{
+
+    /* position: absolute;
+    top:210px ;
+    left:440px; */
+ 
+}
+
+
+
+.cricle{
+   
+    width:900px; 
+    border-radius: 50%;
+    height:900px;
+    background: #FFEEDE;
+    right: 0px;
+    top:-450px;
+    overflow-y: hidden;
+   
+}
+
+.spin-right{
+    position: absolute;
+    top:80%;
+    left:85%;
+   
+ 
+}
+.spin-right button{
+    color: white;
+    background-color: #FF922C;
+    border: 0px;
+    width: 40px;
+height: 40px;
+border-radius: 50%;
+}
