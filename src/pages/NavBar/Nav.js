@@ -1,7 +1,6 @@
 import React from 'react'
-import './Home.css'
+import './Nav.css'
 import Logo from "../../asset/logo.png";
-import FoodImg from '../FoodImg';
 export default function Home() {
   return (
   <>
@@ -34,28 +33,9 @@ export default function Home() {
           </div>
         </div>
       </section>
-    <div>
-            <FoodImg/>
-    </div>
-    <div className='content-centex-holder'>
-        <div>
-            <h2 className='price'>$32</h2>
-            <h2 className='food-name'>
-            Green Goddess
-            <br/> Chicken Salad
-            </h2>
-             <p>It is a non vegetarian salad which consists of the 
-                <br/>green goddess dressing mixed with chicken
-                <br/>, peppers, olives and celery. </p>
-
-                <button className='order-button'>ORDER NOW</button>
-
-
-                <p className='Watch-Video'>Watch the Video</p>
-        </div>
-
-    </div>
- 
+  
+    
+    
   </div>
   </>
   )

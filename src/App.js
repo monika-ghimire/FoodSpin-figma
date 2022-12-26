@@ -1,18 +1,21 @@
 
 import './App.css';
 
-import Home from './pages/Home/Home'
-
+import FoodImg from './pages/FoodImg';
 
 function App() {
   return (
     <>
 
     
-    <div className='container'>
+     <div className='container'>
         
 
-     <Home/>
+ 
+     
+        <div className='cricle-spin-holder'>
+          <FoodImg/> </div>
+    
     
 
     </div>

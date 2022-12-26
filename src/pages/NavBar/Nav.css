@@ -1,0 +1,36 @@
+.nav-bar-content-holder ul{
+    display: flex;
+    list-style: none;
+    gap:0%;
+    padding-top:2%;
+
+}
+
+.home-content-wrapper{
+    width:1000px;
+}
+
+.nav-group ul{
+    width:380px;
+    gap:10%;
+    margin-left:10%;
+
+}
+.nav-group{
+    margin-left:30%;
+} 
+.nav-bar-wrapper{
+    
+}
+
+.privacy{
+   
+ 
+margin-left: 20%;
+}
+
+/* 
+.cricle-spin-holder{
+    margin-left: 20%;
+} */
+
