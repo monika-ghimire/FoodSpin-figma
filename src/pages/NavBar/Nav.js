@@ -22,11 +22,11 @@ export default function Home() {
                   </ul>
         
               </li>
-              <li className="privacy">
+              <div className="privacy">
                 <ul>
                 <li>Icon</li>
                 </ul>
-              </li>
+              </div>
 
               
             </ul>
