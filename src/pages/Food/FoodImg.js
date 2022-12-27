@@ -82,6 +82,11 @@ export default function FoodImg() {
           {
             setimgIndex(0)
           }
+          if( FoodItemList[i].id===imgIndex)
+        {
+          console.log(FoodItemList[i].img)
+          setTargetImg(FoodItemList[i].img)
+        }
           if( FoodItemList[i].id===imgIndex & FoodItemList[i].veg===false  ){
             cricleBg.style.background='#FFEEDE'
             BtnBg.style.background="#FF922C"
