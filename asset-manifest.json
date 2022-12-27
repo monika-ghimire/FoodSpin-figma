@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FoodSpin-figma/static/css/main.d67d92d4.css",
-    "main.js": "/FoodSpin-figma/static/js/main.e6cb6bd0.js",
+    "main.js": "/FoodSpin-figma/static/js/main.b66463a6.js",
     "static/js/787.28cb0dcd.chunk.js": "/FoodSpin-figma/static/js/787.28cb0dcd.chunk.js",
     "static/media/img6.png": "/FoodSpin-figma/static/media/img6.85091b0fd26aaf43300c.png",
     "static/media/img2.png": "/FoodSpin-figma/static/media/img2.477339db509a707e3646.png",
@@ -11,11 +11,11 @@
     "static/media/img4.png": "/FoodSpin-figma/static/media/img4.e3d77ebf75439338ac97.png",
     "index.html": "/FoodSpin-figma/index.html",
     "main.d67d92d4.css.map": "/FoodSpin-figma/static/css/main.d67d92d4.css.map",
-    "main.e6cb6bd0.js.map": "/FoodSpin-figma/static/js/main.e6cb6bd0.js.map",
+    "main.b66463a6.js.map": "/FoodSpin-figma/static/js/main.b66463a6.js.map",
     "787.28cb0dcd.chunk.js.map": "/FoodSpin-figma/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d67d92d4.css",
-    "static/js/main.e6cb6bd0.js"
+    "static/js/main.b66463a6.js"
   ]
 }
